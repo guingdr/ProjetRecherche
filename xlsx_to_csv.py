@@ -27,7 +27,7 @@ path = r'C:\Users\guilh\Desktop\integratorProject\mydatasets'
 #          '_poche_cercle_antihoraire',
 #          '_poche_cercle_horaire',
 #          '_poche_coeur',
-#          '_poche__rectangle_diag',
+#          '_poche_rectangle_diag',
 #          '_poche_triangle']
 
 for file in os.scandir(path + '\\xlsx'):
